@@ -25,6 +25,7 @@ const Home = () => {
               icon="add_ic_call"
               title="Contact Us Now"
               subTitle="Lorem ipsum dolor sit amet consectetur adipisicing." />
+              
           </div>
         </div>
       </section>
