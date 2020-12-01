@@ -14,18 +14,18 @@ const Home = () => {
               icon="query_builder"
               title="Opening Hours"
               extraClass="home-primary"
-              subTitle="Lorem ipsum dolor sit amet consectetur adipisicing." />
+              subTitle="Open 24 hours." />
             <FeatureItem
               extraClass="home-location"
               icon="location_on"
               title="Visit Our Location"
-              subTitle="Lorem ipsum dolor sit amet consectetur adipisicing." />
+              subTitle="Banerji Rd, Opp Gokulam park, Kaloor, Ernakulam, Kerala 682017" />
             <FeatureItem
               extraClass="home-primary"
               icon="add_ic_call"
               title="Contact Us Now"
-              subTitle="Lorem ipsum dolor sit amet consectetur adipisicing." />
-              
+              subTitle="Phone: 0484 418 2888" />
+
           </div>
         </div>
       </section>

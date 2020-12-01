@@ -48,10 +48,12 @@ const HeaderBottom = ({ history }) => {
         <div className="col-xl-5">
           {appointment ? <Calender  /> : (
             <div className="sidebar-content">
-              <h2 className="text-capitalize fwb">Your new smile <br /> starts here</h2>
-              <p className="py-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi veniam optio
-              consenter quod beatae, atque quae ipsam, alias est reprehenderit debitis explicabo itaque pariatur
-          nisi!</p>
+              <h2 className="text-capitalize fwb">TELEHEALTH </h2>
+              <p className="py-2">Today's patient demands access and telehealth improves by enabling access to
+treatment more quickly while eliminating the hassles of traveling to the physician's
+office.
+Telehealth provides online consultation, where the patient is diagnosed without the
+doctor's physical presence.</p>
               <button type="button"
                 onClick={() => history.push('/create-appointment')}
                 className="btn mybtn">GET APPOINTMENT</button>
